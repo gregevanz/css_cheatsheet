@@ -1,0 +1,21 @@
+td {
+    text-align:left;
+    border-top: inherit 1px solid;
+}
+table{
+    display:inline-block;
+    border: blue 2px solid; 
+    width: 650px;
+    margin: 0 auto;
+    font-family:'Noto Sans', sans-serif;
+}
+body{
+    font-family: 'Noto Sans', sans-serif;
+    text-align:center;
+}
+tr{
+    height: 4em;
+}
+thead{
+    background-color: lemonchiffon;
+}
